@@ -1,4 +1,4 @@
-name: flappy_ember
+name: flappy_bird
 description: A simple flappy birds-like game
 
 environment:
